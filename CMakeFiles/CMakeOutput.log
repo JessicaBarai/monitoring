@@ -1,0 +1,935 @@
+The system is: Linux - 5.4.72-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /opt/rh/llvm-toolset-7/root/usr/bin/clang 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/volvo/edb/dev/code/allinone/CMakeFiles/3.21.1/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /opt/rh/llvm-toolset-7/root/usr/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/volvo/edb/dev/code/allinone/CMakeFiles/3.21.1/CompilerIdCXX/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d0a5c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d0a5c.dir/build.make CMakeFiles/cmTC_d0a5c.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang   -v -MD -MT CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake-3.21/Modules/CMakeCCompilerABI.c
+clang version 5.0.1 (tags/RELEASE_501/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin
+Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5
+Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Selected multilib: .;@m64
+ "/opt/rh/llvm-toolset-7/root/usr/bin/clang-5.0" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mthread-model posix -mdisable-fp-elim -fmath-errno -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -v -dwarf-column-info -debugger-tuning=gdb -coverage-notes-file /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.gcno -resource-dir /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1 -dependency-file CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o.d -sys-header-deps -MT CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -internal-isystem /usr/local/include -internal-isystem /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdebug-compilation-dir /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gcc -fdiagnostics-show-option -o CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake-3.21/Modules/CMakeCCompilerABI.c
+clang -cc1 version 5.0.1 based upon LLVM 5.0.1 default target x86_64-unknown-linux-gnu
+ignoring nonexistent directory "/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/local/include
+ /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include
+ /usr/include
+End of search list.
+Linking C executable cmTC_d0a5c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d0a5c.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang  -v CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -o cmTC_d0a5c 
+clang version 5.0.1 (tags/RELEASE_501/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin
+Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5
+Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Selected multilib: .;@m64
+ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_d0a5c /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/local/include]
+    add: [/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include] ==> [/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/local/include;/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(CMAKE_LINKER-NOTFOUND|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d0a5c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d0a5c.dir/build.make CMakeFiles/cmTC_d0a5c.dir/build]
+  ignore line: [gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang   -v -MD -MT CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -MF CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o.d -o CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake-3.21/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang version 5.0.1 (tags/RELEASE_501/final)]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin]
+  ignore line: [Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5]
+  ignore line: [Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Candidate multilib: .]
+  ignore line: [@m64]
+  ignore line: [Candidate multilib: 32]
+  ignore line: [@m32]
+  ignore line: [Selected multilib: .]
+  ignore line: [@m64]
+  ignore line: [ "/opt/rh/llvm-toolset-7/root/usr/bin/clang-5.0" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mthread-model posix -mdisable-fp-elim -fmath-errno -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -v -dwarf-column-info -debugger-tuning=gdb -coverage-notes-file /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.gcno -resource-dir /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1 -dependency-file CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o.d -sys-header-deps -MT CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -internal-isystem /usr/local/include -internal-isystem /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdebug-compilation-dir /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gcc -fdiagnostics-show-option -o CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -x c /usr/local/share/cmake-3.21/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 5.0.1 based upon LLVM 5.0.1 default target x86_64-unknown-linux-gnu]
+  ignore line: [ignoring nonexistent directory "/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [Linking C executable cmTC_d0a5c]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d0a5c.dir/link.txt --verbose=1]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang  -v CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -o cmTC_d0a5c ]
+  ignore line: [clang version 5.0.1 (tags/RELEASE_501/final)]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin]
+  ignore line: [Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5]
+  ignore line: [Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Candidate multilib: .]
+  ignore line: [@m64]
+  ignore line: [Candidate multilib: 32]
+  ignore line: [@m32]
+  ignore line: [Selected multilib: .]
+  ignore line: [@m64]
+  link line: [ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_d0a5c /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--no-add-needed] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_d0a5c] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> obj [/lib/../lib64/crt1.o]
+    arg [/lib/../lib64/crti.o] ==> obj [/lib/../lib64/crti.o]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o] ==> obj [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib]
+    arg [-L/lib] ==> dir [/lib]
+    arg [-L/usr/lib] ==> dir [/usr/lib]
+    arg [CMakeFiles/cmTC_d0a5c.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o] ==> obj [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o]
+    arg [/lib/../lib64/crtn.o] ==> obj [/lib/../lib64/crtn.o]
+  collapse obj [/lib/../lib64/crt1.o] ==> [/lib64/crt1.o]
+  collapse obj [/lib/../lib64/crti.o] ==> [/lib64/crti.o]
+  collapse obj [/lib/../lib64/crtn.o] ==> [/lib64/crtn.o]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> [/opt/rh/devtoolset-7/root/usr/lib64]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> [/opt/rh/llvm-toolset-7/root/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> [/opt/rh/devtoolset-7/root/usr/lib]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> [/opt/rh/llvm-toolset-7/root/usr/lib]
+  collapse library dir [/lib] ==> [/lib]
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit objs: [/lib64/crt1.o;/lib64/crti.o;/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o;/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o;/lib64/crtn.o]
+  implicit dirs: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7;/opt/rh/devtoolset-7/root/usr/lib64;/opt/rh/llvm-toolset-7/root/usr/lib64;/lib64;/usr/lib64;/opt/rh/devtoolset-7/root/usr/lib;/opt/rh/llvm-toolset-7/root/usr/lib;/lib;/usr/lib]
+  implicit fwks: []
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_23cbf/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_23cbf.dir/build.make CMakeFiles/cmTC_23cbf.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++   -v -MD -MT CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp
+clang version 5.0.1 (tags/RELEASE_501/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin
+Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5
+Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Selected multilib: .;@m64
+ "/opt/rh/llvm-toolset-7/root/usr/bin/clang-5.0" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mthread-model posix -mdisable-fp-elim -fmath-errno -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -v -dwarf-column-info -debugger-tuning=gdb -coverage-notes-file /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1 -dependency-file CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o.d -sys-header-deps -MT CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -internal-isystem /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7 -internal-isystem /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux -internal-isystem /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward -internal-isystem /usr/local/include -internal-isystem /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gcc -fcxx-exceptions -fexceptions -fdiagnostics-show-option -o CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 5.0.1 based upon LLVM 5.0.1 default target x86_64-unknown-linux-gnu
+ignoring nonexistent directory "/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7
+ /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux
+ /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward
+ /usr/local/include
+ /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include
+ /usr/include
+End of search list.
+Linking CXX executable cmTC_23cbf
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23cbf.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++  -v CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_23cbf 
+clang version 5.0.1 (tags/RELEASE_501/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin
+Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5
+Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Selected multilib: .;@m64
+ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_23cbf /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7]
+    add: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux]
+    add: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward]
+    add: [/usr/local/include]
+    add: [/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7] ==> [/opt/rh/devtoolset-7/root/usr/include/c++/7]
+  collapse include dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux] ==> [/opt/rh/devtoolset-7/root/usr/include/c++/7/x86_64-redhat-linux]
+  collapse include dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward] ==> [/opt/rh/devtoolset-7/root/usr/include/c++/7/backward]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include] ==> [/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/opt/rh/devtoolset-7/root/usr/include/c++/7;/opt/rh/devtoolset-7/root/usr/include/c++/7/x86_64-redhat-linux;/opt/rh/devtoolset-7/root/usr/include/c++/7/backward;/usr/local/include;/opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(CMAKE_LINKER-NOTFOUND|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_23cbf/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_23cbf.dir/build.make CMakeFiles/cmTC_23cbf.dir/build]
+  ignore line: [gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang++   -v -MD -MT CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -MF CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o.d -o CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang version 5.0.1 (tags/RELEASE_501/final)]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin]
+  ignore line: [Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5]
+  ignore line: [Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Candidate multilib: .]
+  ignore line: [@m64]
+  ignore line: [Candidate multilib: 32]
+  ignore line: [@m32]
+  ignore line: [Selected multilib: .]
+  ignore line: [@m64]
+  ignore line: [ "/opt/rh/llvm-toolset-7/root/usr/bin/clang-5.0" -cc1 -triple x86_64-unknown-linux-gnu -emit-obj -mrelax-all -disable-free -disable-llvm-verifier -discard-value-names -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mthread-model posix -mdisable-fp-elim -fmath-errno -masm-verbose -mconstructor-aliases -munwind-tables -fuse-init-array -target-cpu x86-64 -v -dwarf-column-info -debugger-tuning=gdb -coverage-notes-file /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.gcno -resource-dir /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1 -dependency-file CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o.d -sys-header-deps -MT CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -internal-isystem /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7 -internal-isystem /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux -internal-isystem /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward -internal-isystem /usr/local/include -internal-isystem /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include -internal-externc-isystem /include -internal-externc-isystem /usr/include -fdeprecated-macro -fdebug-compilation-dir /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp -ferror-limit 19 -fmessage-length 0 -fobjc-runtime=gcc -fcxx-exceptions -fexceptions -fdiagnostics-show-option -o CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -x c++ /usr/local/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang -cc1 version 5.0.1 based upon LLVM 5.0.1 default target x86_64-unknown-linux-gnu]
+  ignore line: [ignoring nonexistent directory "/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7]
+  ignore line: [ /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/x86_64-redhat-linux]
+  ignore line: [ /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../include/c++/7/backward]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /opt/rh/llvm-toolset-7/root/usr/lib64/clang/5.0.1/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [Linking CXX executable cmTC_23cbf]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23cbf.dir/link.txt --verbose=1]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang++  -v CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_23cbf ]
+  ignore line: [clang version 5.0.1 (tags/RELEASE_501/final)]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin]
+  ignore line: [Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5]
+  ignore line: [Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Candidate multilib: .]
+  ignore line: [@m64]
+  ignore line: [Candidate multilib: 32]
+  ignore line: [@m32]
+  ignore line: [Selected multilib: .]
+  ignore line: [@m64]
+  link line: [ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_23cbf /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--no-add-needed] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_23cbf] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> obj [/lib/../lib64/crt1.o]
+    arg [/lib/../lib64/crti.o] ==> obj [/lib/../lib64/crti.o]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o] ==> obj [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib]
+    arg [-L/lib] ==> dir [/lib]
+    arg [-L/usr/lib] ==> dir [/usr/lib]
+    arg [CMakeFiles/cmTC_23cbf.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o] ==> obj [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o]
+    arg [/lib/../lib64/crtn.o] ==> obj [/lib/../lib64/crtn.o]
+  collapse obj [/lib/../lib64/crt1.o] ==> [/lib64/crt1.o]
+  collapse obj [/lib/../lib64/crti.o] ==> [/lib64/crti.o]
+  collapse obj [/lib/../lib64/crtn.o] ==> [/lib64/crtn.o]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> [/opt/rh/devtoolset-7/root/usr/lib64]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> [/opt/rh/llvm-toolset-7/root/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> [/opt/rh/devtoolset-7/root/usr/lib]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> [/opt/rh/llvm-toolset-7/root/usr/lib]
+  collapse library dir [/lib] ==> [/lib]
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [/lib64/crt1.o;/lib64/crti.o;/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o;/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o;/lib64/crtn.o]
+  implicit dirs: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7;/opt/rh/devtoolset-7/root/usr/lib64;/opt/rh/llvm-toolset-7/root/usr/lib64;/lib64;/usr/lib64;/opt/rh/devtoolset-7/root/usr/lib;/opt/rh/llvm-toolset-7/root/usr/lib;/lib;/usr/lib]
+  implicit fwks: []
+
+
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_8c20b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8c20b.dir/build.make CMakeFiles/cmTC_8c20b.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8c20b.dir/CheckIncludeFile.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang    -MD -MT CMakeFiles/cmTC_8c20b.dir/CheckIncludeFile.c.o -MF CMakeFiles/cmTC_8c20b.dir/CheckIncludeFile.c.o.d -o CMakeFiles/cmTC_8c20b.dir/CheckIncludeFile.c.o -c /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_8c20b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c20b.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang CMakeFiles/cmTC_8c20b.dir/CheckIncludeFile.c.o -o cmTC_8c20b 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4e92f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4e92f.dir/build.make CMakeFiles/cmTC_4e92f.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4e92f.dir/CheckFunctionExists.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang   -DCHECK_FUNCTION_EXISTS=pthread_create -MD -MT CMakeFiles/cmTC_4e92f.dir/CheckFunctionExists.c.o -MF CMakeFiles/cmTC_4e92f.dir/CheckFunctionExists.c.o.d -o CMakeFiles/cmTC_4e92f.dir/CheckFunctionExists.c.o -c /usr/local/share/cmake-3.21/Modules/CheckFunctionExists.c
+Linking C executable cmTC_4e92f
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4e92f.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang  -DCHECK_FUNCTION_EXISTS=pthread_create CMakeFiles/cmTC_4e92f.dir/CheckFunctionExists.c.o -o cmTC_4e92f  -lpthread 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+
+The system is: Linux - 5.4.72-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /opt/rh/llvm-toolset-7/root/usr/bin/clang 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "/volvo/edb/dev/code/allinone/CMakeFiles/3.6.2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /opt/rh/llvm-toolset-7/root/usr/bin/clang++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/volvo/edb/dev/code/allinone/CMakeFiles/3.6.2/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_a78a5/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_a78a5.dir/build.make CMakeFiles/cmTC_a78a5.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a78a5.dir/testCCompiler.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang    -fPIE   -o CMakeFiles/cmTC_a78a5.dir/testCCompiler.c.o   -c /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_a78a5
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a78a5.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang       CMakeFiles/cmTC_a78a5.dir/testCCompiler.c.o  -o cmTC_a78a5 -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_f86ce/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_f86ce.dir/build.make CMakeFiles/cmTC_f86ce.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang    -fPIE   -o CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o   -c /opt/rh/llvm-toolset-7/root/usr/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_f86ce
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f86ce.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang      -v CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o  -o cmTC_f86ce -rdynamic  
+clang version 5.0.1 (tags/RELEASE_501/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin
+Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5
+Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Selected multilib: .;@m64
+ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" -export-dynamic --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_f86ce /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_f86ce/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_f86ce.dir/build.make CMakeFiles/cmTC_f86ce.dir/build]
+  ignore line: [gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang    -fPIE   -o CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o   -c /opt/rh/llvm-toolset-7/root/usr/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_f86ce]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f86ce.dir/link.txt --verbose=1]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang      -v CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o  -o cmTC_f86ce -rdynamic  ]
+  ignore line: [clang version 5.0.1 (tags/RELEASE_501/final)]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin]
+  ignore line: [Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5]
+  ignore line: [Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Candidate multilib: .]
+  ignore line: [@m64]
+  ignore line: [Candidate multilib: 32]
+  ignore line: [@m32]
+  ignore line: [Selected multilib: .]
+  ignore line: [@m64]
+  link line: [ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" -export-dynamic --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_f86ce /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--no-add-needed] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_f86ce] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> ignore
+    arg [/lib/../lib64/crti.o] ==> ignore
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o] ==> ignore
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib]
+    arg [-L/lib] ==> dir [/lib]
+    arg [-L/usr/lib] ==> dir [/usr/lib]
+    arg [CMakeFiles/cmTC_f86ce.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o] ==> ignore
+    arg [/lib/../lib64/crtn.o] ==> ignore
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> [/opt/rh/devtoolset-7/root/usr/lib64]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> [/opt/rh/llvm-toolset-7/root/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> [/opt/rh/devtoolset-7/root/usr/lib]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> [/opt/rh/llvm-toolset-7/root/usr/lib]
+  collapse library dir [/lib] ==> [/lib]
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  implicit libs: [c]
+  implicit dirs: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7;/opt/rh/devtoolset-7/root/usr/lib64;/opt/rh/llvm-toolset-7/root/usr/lib64;/lib64;/usr/lib64;/opt/rh/devtoolset-7/root/usr/lib;/opt/rh/llvm-toolset-7/root/usr/lib;/lib;/usr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_16df3/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_16df3.dir/build.make CMakeFiles/cmTC_16df3.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_16df3.dir/feature_tests.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang    -fPIE   -std=c11 -o CMakeFiles/cmTC_16df3.dir/feature_tests.c.o   -c /volvo/edb/dev/code/allinone/CMakeFiles/feature_tests.c
+Linking C executable cmTC_16df3
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16df3.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang       CMakeFiles/cmTC_16df3.dir/feature_tests.c.o  -o cmTC_16df3 -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_cc7eb/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_cc7eb.dir/build.make CMakeFiles/cmTC_cc7eb.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cc7eb.dir/feature_tests.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang    -fPIE   -std=c99 -o CMakeFiles/cmTC_cc7eb.dir/feature_tests.c.o   -c /volvo/edb/dev/code/allinone/CMakeFiles/feature_tests.c
+Linking C executable cmTC_cc7eb
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cc7eb.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang       CMakeFiles/cmTC_cc7eb.dir/feature_tests.c.o  -o cmTC_cc7eb -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_f139d/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_f139d.dir/build.make CMakeFiles/cmTC_f139d.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f139d.dir/feature_tests.c.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang    -fPIE   -std=c90 -o CMakeFiles/cmTC_f139d.dir/feature_tests.c.o   -c /volvo/edb/dev/code/allinone/CMakeFiles/feature_tests.c
+Linking C executable cmTC_f139d
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f139d.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang       CMakeFiles/cmTC_f139d.dir/feature_tests.c.o  -o cmTC_f139d -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_3fabb/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_3fabb.dir/build.make CMakeFiles/cmTC_3fabb.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3fabb.dir/testCXXCompiler.cxx.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++     -fPIE   -std=c++11 -o CMakeFiles/cmTC_3fabb.dir/testCXXCompiler.cxx.o -c /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_3fabb
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3fabb.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++        CMakeFiles/cmTC_3fabb.dir/testCXXCompiler.cxx.o  -o cmTC_3fabb -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_b8b15/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_b8b15.dir/build.make CMakeFiles/cmTC_b8b15.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++     -fPIE   -std=c++11 -o CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o -c /opt/rh/llvm-toolset-7/root/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_b8b15
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b8b15.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++       -v CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_b8b15 -rdynamic  
+clang version 5.0.1 (tags/RELEASE_501/final)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin
+Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2
+Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5
+Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7
+Candidate multilib: .;@m64
+Candidate multilib: 32;@m32
+Selected multilib: .;@m64
+ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" -export-dynamic --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b8b15 /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_b8b15/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_b8b15.dir/build.make CMakeFiles/cmTC_b8b15.dir/build]
+  ignore line: [gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang++     -fPIE   -std=c++11 -o CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o -c /opt/rh/llvm-toolset-7/root/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_b8b15]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b8b15.dir/link.txt --verbose=1]
+  ignore line: [/opt/rh/llvm-toolset-7/root/usr/bin/clang++       -v CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_b8b15 -rdynamic  ]
+  ignore line: [clang version 5.0.1 (tags/RELEASE_501/final)]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /opt/rh/llvm-toolset-7/root/usr/bin]
+  ignore line: [Found candidate GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.2]
+  ignore line: [Found candidate GCC installation: /usr/lib/gcc/x86_64-redhat-linux/4.8.5]
+  ignore line: [Selected GCC installation: /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  ignore line: [Candidate multilib: .]
+  ignore line: [@m64]
+  ignore line: [Candidate multilib: 32]
+  ignore line: [@m32]
+  ignore line: [Selected multilib: .]
+  ignore line: [@m64]
+  link line: [ "/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld" -export-dynamic --hash-style=gnu --no-add-needed --build-id --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_b8b15 /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64 -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../.. -L/opt/rh/llvm-toolset-7/root/usr/bin/../lib -L/lib -L/usr/lib CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o /lib/../lib64/crtn.o]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../bin/ld] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--no-add-needed] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_b8b15] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> ignore
+    arg [/lib/../lib64/crti.o] ==> ignore
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtbegin.o] ==> ignore
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..]
+    arg [-L/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib]
+    arg [-L/lib] ==> dir [/lib]
+    arg [-L/usr/lib] ==> dir [/usr/lib]
+    arg [CMakeFiles/cmTC_b8b15.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/crtend.o] ==> ignore
+    arg [/lib/../lib64/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7] ==> [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../../../lib64] ==> [/opt/rh/devtoolset-7/root/usr/lib64]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib64] ==> [/opt/rh/llvm-toolset-7/root/usr/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7/../../..] ==> [/opt/rh/devtoolset-7/root/usr/lib]
+  collapse library dir [/opt/rh/llvm-toolset-7/root/usr/bin/../lib] ==> [/opt/rh/llvm-toolset-7/root/usr/lib]
+  collapse library dir [/lib] ==> [/lib]
+  collapse library dir [/usr/lib] ==> [/usr/lib]
+  implicit libs: [stdc++;m;c]
+  implicit dirs: [/opt/rh/devtoolset-7/root/usr/lib/gcc/x86_64-redhat-linux/7;/opt/rh/devtoolset-7/root/usr/lib64;/opt/rh/llvm-toolset-7/root/usr/lib64;/lib64;/usr/lib64;/opt/rh/devtoolset-7/root/usr/lib;/opt/rh/llvm-toolset-7/root/usr/lib;/lib;/usr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++14] compiler features compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_81029/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_81029.dir/build.make CMakeFiles/cmTC_81029.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_81029.dir/feature_tests.cxx.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++     -fPIE   -std=c++14 -std=c++11 -o CMakeFiles/cmTC_81029.dir/feature_tests.cxx.o -c /volvo/edb/dev/code/allinone/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_81029
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81029.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++        CMakeFiles/cmTC_81029.dir/feature_tests.cxx.o  -o cmTC_81029 -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_d7d92/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_d7d92.dir/build.make CMakeFiles/cmTC_d7d92.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d7d92.dir/feature_tests.cxx.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++     -fPIE   -std=c++11 -std=c++11 -o CMakeFiles/cmTC_d7d92.dir/feature_tests.cxx.o -c /volvo/edb/dev/code/allinone/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_d7d92
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d7d92.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++        CMakeFiles/cmTC_d7d92.dir/feature_tests.cxx.o  -o cmTC_d7d92 -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: /volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/gmake" "cmTC_53a30/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_53a30.dir/build.make CMakeFiles/cmTC_53a30.dir/build
+gmake[1]: Entering directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_53a30.dir/feature_tests.cxx.o
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++     -fPIE   -std=c++98 -std=c++11 -o CMakeFiles/cmTC_53a30.dir/feature_tests.cxx.o -c /volvo/edb/dev/code/allinone/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_53a30
+/opt/rh/llvm-toolset-7/root/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53a30.dir/link.txt --verbose=1
+/opt/rh/llvm-toolset-7/root/usr/bin/clang++        CMakeFiles/cmTC_53a30.dir/feature_tests.cxx.o  -o cmTC_53a30 -rdynamic 
+gmake[1]: Leaving directory `/volvo/edb/dev/code/allinone/CMakeFiles/CMakeTmp'
+
+
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:0cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

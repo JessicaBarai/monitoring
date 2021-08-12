@@ -1,0 +1,7 @@
+disabled: false
+reporter:
+  localAgentHostPort: 172.17.0.3:6831
+  logSpans: true
+sampler:
+  type: const
+  param: 1

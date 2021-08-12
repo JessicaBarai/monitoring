@@ -1,0 +1,1127 @@
+[
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Config.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Config.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Config.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/DynamicLoad.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/LogRecord.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Logging.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Reference.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Span.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Span.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Span.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/SpanContext.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Tag.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/TraceID.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Tracer.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/TracerFactory.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/Sender.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Sender.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Sender.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/ThriftSender.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftSender.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftSender.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/BaggageSetter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RemoteRestrictionManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/Restriction.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RestrictionManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/baggage/RestrictionsConfig.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Counter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Gauge.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/InMemoryStatsReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Metric.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Metrics.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullCounter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullGauge.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullStatsFactory.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullStatsReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/NullTimer.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsFactory.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsFactoryImpl.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/StatsReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/metrics/Timer.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/IPAddress.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/Socket.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/URI.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Error.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Header.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Method.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Request.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/net/http/Response.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/platform/Endian.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/platform/Hostname.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Extractor.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/HeadersConfig.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Injector.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/Propagator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/JaegerPropagator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/JaegerPropagator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/JaegerPropagator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/propagation/W3CPropagator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/W3CPropagator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/W3CPropagator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/CompositeReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/Config.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/InMemoryReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/LoggingReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/NullReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/RemoteReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/reporters/Reporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/AdaptiveSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/Config.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/ConstSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/ProbabilisticSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RateLimitingSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RemoteSamplingJSON.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/RemotelyControlledSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/Sampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/samplers/SamplingStatus.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Agent.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/AggregationValidator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Collector.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/Dependency.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/SamplingManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/ZipkinCollector.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/agent_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/agent_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/baggage_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/baggage_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/dependency_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/dependency_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/jaeger_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/jaeger_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/sampling_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/sampling_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/zipkincore_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/thrift-gen/zipkincore_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/ErrorUtil.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/HexParsing.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/EnvVariable.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/EnvVariable.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/EnvVariable.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/RateLimiter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/UDPTransporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/UDPTransporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/UDPTransporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/HTTPTransporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HTTPTransporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HTTPTransporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/utils/YAML.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Djaegertracing_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing.dir/src/jaegertracing/ThriftMethods.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftMethods.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftMethods.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -std=gnu++11 -o CMakeFiles/DynamicallyLoadTracerTest.dir/src/jaegertracing/DynamicallyLoadTracerTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/DynamicallyLoadTracerTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/DynamicallyLoadTracerTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Dtestutils_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/TUDPTransport.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransport.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransport.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Dtestutils_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/SamplingManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/SamplingManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/SamplingManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Dtestutils_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/MockAgent.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgent.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgent.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -Dtestutils_EXPORTS -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -fPIC -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/testutils.dir/src/jaegertracing/testutils/TracerUtil.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/TracerUtil.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/TracerUtil.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ConfigTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ConfigTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ConfigTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ReferenceTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ReferenceTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ReferenceTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/SpanContextTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanContextTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanContextTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/SpanTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TagTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TagTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TagTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TraceIDTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TraceIDTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TraceIDTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TracerFactoryTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerFactoryTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerFactoryTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/TracerTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/ThriftSenderTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftSenderTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftSenderTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/baggage/BaggageTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/metrics/MetricsTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/MetricsTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/MetricsTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/metrics/NullStatsFactoryTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactoryTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactoryTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/IPAddressTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/IPAddressTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/IPAddressTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/SocketTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/SocketTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/SocketTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/URITest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/URITest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/URITest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/HeaderTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/HeaderTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/HeaderTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/MethodTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/MethodTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/MethodTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/net/http/ResponseTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/ResponseTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/ResponseTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/propagation/PropagatorTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/PropagatorTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/PropagatorTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/propagation/W3CPropagatorTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/W3CPropagatorTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/W3CPropagatorTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/reporters/ConfigTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/ConfigTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/ConfigTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/reporters/ReporterTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/ReporterTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/ReporterTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/samplers/SamplerTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplerTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplerTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/MockAgentTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgentTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/MockAgentTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/testutils/TUDPTransportTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransportTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/testutils/TUDPTransportTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/ErrorUtilTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtilTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtilTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/RateLimiterTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiterTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiterTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/UDPSenderTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/UDPSenderTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/UDPSenderTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/UnitTest.dir/src/jaegertracing/utils/HTTPTransporterTest.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HTTPTransporterTest.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HTTPTransporterTest.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/app.dir/examples/App.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/examples/App.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/examples/App.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Config.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Config.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Config.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/DynamicLoad.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/DynamicLoad.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/LogRecord.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/LogRecord.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Logging.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Logging.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Reference.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Reference.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Span.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Span.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Span.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/SpanContext.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/SpanContext.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Tag.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tag.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/TraceID.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TraceID.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Tracer.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Tracer.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/TracerFactory.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/TracerFactory.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/Sender.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Sender.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/Sender.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/ThriftSender.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftSender.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftSender.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/BaggageSetter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/BaggageSetter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionJSON.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RemoteRestrictionManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RemoteRestrictionManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/Restriction.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/Restriction.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RestrictionManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/baggage/RestrictionsConfig.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/baggage/RestrictionsConfig.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Counter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Counter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Gauge.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Gauge.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/InMemoryStatsReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/InMemoryStatsReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Metric.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metric.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Metrics.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Metrics.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullCounter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullCounter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullGauge.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullGauge.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullStatsFactory.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsFactory.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullStatsReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullStatsReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/NullTimer.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/NullTimer.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsFactory.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactory.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsFactoryImpl.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsFactoryImpl.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/StatsReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/StatsReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/metrics/Timer.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/metrics/Timer.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/IPAddress.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/IPAddress.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/Socket.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/Socket.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/URI.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/URI.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Error.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Error.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Header.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Header.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Method.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Method.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Request.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Request.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/net/http/Response.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/net/http/Response.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/platform/Endian.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Endian.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/platform/Hostname.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/platform/Hostname.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Extractor.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Extractor.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/HeadersConfig.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/HeadersConfig.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Injector.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Injector.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/Propagator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/Propagator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/JaegerPropagator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/JaegerPropagator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/JaegerPropagator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/propagation/W3CPropagator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/W3CPropagator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/propagation/W3CPropagator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/CompositeReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/CompositeReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/Config.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Config.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/InMemoryReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/InMemoryReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/LoggingReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/LoggingReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/NullReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/NullReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/RemoteReporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/RemoteReporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/reporters/Reporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/reporters/Reporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/AdaptiveSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/AdaptiveSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/Config.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Config.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/ConstSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ConstSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/GuaranteedThroughputProbabilisticSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/ProbabilisticSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/ProbabilisticSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RateLimitingSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RateLimitingSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RemoteSamplingJSON.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemoteSamplingJSON.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/RemotelyControlledSampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/RemotelyControlledSampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/Sampler.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/Sampler.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/samplers/SamplingStatus.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/samplers/SamplingStatus.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Agent.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Agent.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/AggregationValidator.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/AggregationValidator.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/BaggageRestrictionManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Collector.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Collector.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/Dependency.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/Dependency.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/SamplingManager.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/SamplingManager.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/ZipkinCollector.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/ZipkinCollector.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/agent_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/agent_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/agent_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/aggregation_validator_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/baggage_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/baggage_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/baggage_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/dependency_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/dependency_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/dependency_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/jaeger_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/jaeger_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/jaeger_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/sampling_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/sampling_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/sampling_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/zipkincore_constants.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_constants.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/thrift-gen/zipkincore_types.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/thrift-gen/zipkincore_types.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/ErrorUtil.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/ErrorUtil.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/HexParsing.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HexParsing.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/EnvVariable.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/EnvVariable.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/EnvVariable.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/RateLimiter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/RateLimiter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/UDPTransporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/UDPTransporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/UDPTransporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/HTTPTransporter.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HTTPTransporter.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/HTTPTransporter.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/utils/YAML.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/utils/YAML.cpp"
+},
+{
+  "directory": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build",
+  "command": "/opt/rh/llvm-toolset-7/root/usr/bin/clang++ -DOPENTRACING_STATIC -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src -I/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/build/src -isystem /opt/app-root/src/.hunter/_Base/d45d77d/982c792/3b7ee27/Install/include -Wall -pedantic -Wno-unused-private-field -std=gnu++11 -o CMakeFiles/jaegertracing-static.dir/src/jaegertracing/ThriftMethods.cpp.o -c /volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftMethods.cpp",
+  "file": "/volvo/edb/dev/code/allinone/jaeger-client-cpp-master/src/jaegertracing/ThriftMethods.cpp"
+}
+]
