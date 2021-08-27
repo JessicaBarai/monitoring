@@ -16,7 +16,9 @@ Tell the Exposer class where to expose the data and configure prometheus to that
 When dowloaded run:
 
 ./configure.sh
+
 ./build.sh
+
 ./run.sh
 
 
