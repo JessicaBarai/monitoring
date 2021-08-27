@@ -4,7 +4,7 @@ A readme is included for both Jaeger and Prometheus libraries.
 
 After downloading code make sure to change:
 
-1. CMakeLists.txt: "add_subdirectory(/volvo/edb/dev/code/l/m/jaeger-client-cpp-master /volvo/edb/dev/code/l/m/jaeger-client-cpp-master/build)"
+1. CMakeLists.txt: "add_subdirectory()"
 add the right path to Jaeger-client-cpp-master directory
 
 2. Make sure to change configuration of Prometheus. 
